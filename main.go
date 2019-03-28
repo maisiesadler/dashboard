@@ -7,8 +7,8 @@ import (
   "sort"
   "strconv"
 
-  "./commands"
-  "./viewmodels"
+  "github.com/maisiesadler/dashboard/commands"
+  "github.com/maisiesadler/dashboard/viewmodels"
 
   "github.com/gdamore/tcell"
   "github.com/gdamore/tcell/views"
